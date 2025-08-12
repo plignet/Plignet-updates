@@ -32,7 +32,7 @@
     ],
     "Servers": [
         {
-            "Name": "PLIGNET BR1",
+            "Name": "PLIGNET BR10",
             "TYPE": "premium",
             "FLAG": "br.png",
             "ServerIP": "Tim.plignet.com.br",
