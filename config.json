@@ -1,7 +1,7 @@
 {
     "Version": 49,
     "PainelConecta5G": false,
-    "ReleaseNotes": "Jsjsjjdjs",
+    "ReleaseNotes": "Jsjsjjnnnndjs",
     "UrlUpdate": "https://raw.githubusercontent.com/plignet/Plignet-updates/main/config.json",
     "Sms": "https://raw.githubusercontent.com/plignet/Plignet-updates/main/config.json",
     "logoonline": "https://i.ibb.co/pyr5mpv/1722606637159.png",
@@ -45,7 +45,7 @@
     ],
     "Networks": [
         {
-            "Name": "饾悤饾悎饾悤饾悗 饾悞饾悇饾悅饾悢饾悜饾悎饾悡饾悩 03 馃挋 01",
+            "Name": "饾悤饾悎饾悤饾悗 饾悞饾悇饾悅饾悢饾悜饾悎饾悡饾悩 03 h馃挋 01",
             "FLAG": "vivo",
             "Payload": "\\\\n\\\\rGET wss://[app_host]/ [split]HTTP/1.1 [lf]Expect:100-continue[lf]Host: [app_host][crlf]Connection: Upgrade[crlf]Upgrade: websocket[crlf][crlf];POLL / HTTP/1.1[crlf]Host: [host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf] CONNECT [host_port][protocol][split][crlf][crlf]",
             "SNI": "",
