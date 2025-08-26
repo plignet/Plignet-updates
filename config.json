@@ -34,8 +34,8 @@ INTERNET VPN É APENAS UM QUEBRA GALHO",
     "CheckUser": "",
     "ServerPort": "22",
     "SSLPort": "443",
-    "USER": "",
-    "PASS": ""
+    "USER": "rtunnel",
+    "PASS": "rtunnel"
   },
   {
     "Name": "PLIGNET BR3",
