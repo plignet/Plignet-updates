@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.3",
+  "Version": "0.0.4",
   "ReleaseNotes": " ATENÇÃO
 
 RECOMENDAMOS SEMPRE POSSUIR OS 2 CHIPS VIVO E TIM 
@@ -295,10 +295,10 @@ INTERNET VPN É APENAS UM QUEBRA GALHO",
     {
       "Name": "TIM 20 (SALDO VÁLIDO)",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1 [lf]Host: [rotate=cdn.c6bank.com.br;mobile.c6bank.app][lf][lf][split]GET- / HTTP/1.1 [lf]Host: [app_host][lf]Upgrade:websocket[lf][lf]",
+      "Payload": "ACL /cdn-cgi/trace HTTP/1.1[lf]Host: ayabooks.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: rtvpn.uleksv.xyz[crlf]Upgrade: Websocket[crlf][crlf]#ACL /cdn-cgi/trace HTTP/1.1[lf]Host: portal.timrecompensas.com.br[crlf][crlf][split][crlf]P- / HTTP/1.1[crlf]Host: [host][crlf]Upgrade: Websocket[crlf][crlf]#GET /cdn-cgi/trace HTTP/1.1[lf]Host: jobs.deezer.com[lf][lf][instant_split][lf][lf]GET- / HTTP/1.1[lf]Host: rtvpn.uleksv.xyz[lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]#[rotate=CONNECT;GET;POST;PUT;HEAD;OPTIONS;PATCH;DELETE;PROPFIND;PROPPATCH;MKCOL;COPY;MOVE;LOCK;UNLOCK;UPDATE;SEARCH] /cdn-cgi/trace/ HTTP/1.1[crlf]Host: ayabooks.com.br[crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: rtvpn.uleksv.xyz[crlf]Upgrade: Websocket[crlf][crlf]#GET /cdn-cgi/trace/ HTTP/1.1[crlf]Host: [rotate=ayabooks.com.br;bancah.com.br;verisoft.com.br][crlf][crlf][split][crlf]GET- / HTTP/1.1[crlf]Host: rtvpn.uleksv.xyz[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "104.19.239.25#104.16.53.111#104.16.51.111",
+      "TlsIP": "rtvpn.uleksv.xyz",
+      "ProxyIP": "104.18.4.18#ayabooks.com.br#bancah.com.br#104.18.5.18#portal.timrecompensas.com.br#vs.timrecompensas.com.br#noexempt-api.timrecompensas.com.br#revive.timrecompensas.com.br#support.oodi.iq#helpdesk.verimatrix.com#216.198.53.1#216.198.54.1#141.193.213.10#bio-matrix.net#comcellulardata.ubigi.com#support.deezer.com#bio-matrix.net#ayuda.universalplus.com#ayudaizzi.izzi.mx#ayuda.tigo.com.py#boostbusiness.zendesk.com#b.zendesk.com#www.ultrahaus.com.br#booth.pixiv.help#busuu-live.busuu.com#bold.support#support.giphy.com",
       "ProxyPort": "80",
       "Info": "Proxy"
     },
