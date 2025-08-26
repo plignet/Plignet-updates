@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.6",
+  "Version": "0.0.7",
   "ReleaseNotes": " ATENÇÃO
 
 RECOMENDAMOS SEMPRE POSSUIR OS 2 CHIPS VIVO E TIM 
@@ -303,12 +303,12 @@ INTERNET VPN É APENAS UM QUEBRA GALHO",
       "Info": "Proxy"
     },
     {
-      "Name": "VIVO CONFIG 10",
+      "Name": "TIM C5G 10",
       "FLAG": "vivo",
-      "Payload": "GET /cdn-cgi/trace HTTP/1.1[lf]Host: [rotate=jobs.deezer.com;bancah.com.br;ayabooks.com.br;familia.globo.com;verisoft.com.br][lf][lf][instant_split][lf][lf]GET- / HTTP/1.1[lf]Host: [host][lf]Connection: Upgrade[lf]Upgrade: websocket[lf][lf]",
+      "Payload": "ACL /cdn-cgi/trace HTTP/1.1[crlf]Host: bancah.com.br[crlf][crlf][split][crlf]\r\nGET- / HTTP/1.1[crlf]Host: tim.plignet.com.br[crlf]Upgrade: Websocket[crlf][crlf]",
       "SNI": "",
-      "TlsIP": "",
-      "ProxyIP": "bancah.com.br#141.193.213.11#104.19.241.93#172.64.154.143",
+      "TlsIP": "tim.plignet.com.br vpn.plignet.com",
+      "ProxyIP": "bancah.com.br#104.18.10.131#104.18.11.131",
       "ProxyPort": "80",
       "Info": "proxy"
     }
