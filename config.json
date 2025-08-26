@@ -40,10 +40,10 @@ INTERNET VPN É APENAS UM QUEBRA GALHO",
   {
     "Name": "PLIGNET BR3",
     "TYPE": "premium",
-    "FLAG": "Alemanha.png",
-    "ServerIP": "[rotate=tim.plignet.com.br#centraldacdn-2.dns-theromshost.com#centraldacdn-3.dns-theromshost.com#centraldacdn-4.dns-theromshost.com]",
+    "FLAG": "cn.png",
+    "ServerIP": "rtvpn.uleksv.xyz",
     "CheckUser": "",
-    "ServerPort": "80",
+    "ServerPort": "22",
     "SSLPort": "443",
     "USER": "",
     "PASS": ""
