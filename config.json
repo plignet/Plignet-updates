@@ -1,5 +1,5 @@
 {
-  "Version": "0.0.7",
+  "Version": "0.0.8",
   "ReleaseNotes": " ATENÇÃO
 
 RECOMENDAMOS SEMPRE POSSUIR OS 2 CHIPS VIVO E TIM 
@@ -12,8 +12,8 @@ INTERNET VPN É APENAS UM QUEBRA GALHO",
   "UdpPort": "7300;7500;7600;7599;7200;7777;9999",
   "Sms": "https://raw.githubusercontent.com/plignet/Plignet-updates/refs/heads/main/config.json",
   "EmailFeedback": "megalodonssh@gmail.com",
-  "UrlContato": "",
-  "UrlTermos": "https://kiritosshxd.github.io/Conecta4g_site/termos.html",
+  "UrlContato": "https://wa.me/5588988237387",
+  "UrlTermos": "https://wa.me/5588988237387",
   "Servers": [
   {
     "Name": "PLIGNET BR1",
