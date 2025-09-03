@@ -1,5 +1,5 @@
 {
-  "Version": "0.1.0",
+  "Version": "0.1.1",
   "ReleaseNotes": " ATENÇÃO
 
 RECOMENDAMOS SEMPRE POSSUIR OS 2 CHIIPS VIVO E TIM 
@@ -31,11 +31,11 @@ INTERNET VPN É APENAS UM QUEBRA GALHO",
     "Name": "PLIGNET BR2",
     "TYPE": "premium",
     "FLAG": "in.png",
-    "ServerIP": "vpn.plignet.com",
+    "ServerIP": "kafta-986235522250.southamerica-east1.run.app",
     "CheckUser": "",
     "ServerPort": "22",
     "SSLPort": "443",
-    "SNI": "vpn.plignet.com.br",
+    "SNI": grow.google",
     "USER": "",
     "PASS": ""
   },
