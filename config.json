@@ -1,5 +1,5 @@
 {
-  "Version": "0.1.3",
+  "Version": "0.1.4",
   "ReleaseNotes": " ATENÇÃO
 
 RECOMENDAMOS SEMPRE POSSUIR OS 2 CHIIPS VIVO E TIM 
@@ -7,7 +7,7 @@ RECOMENDAMOS SEMPRE POSSUIR OS 2 CHIIPS VIVO E TIM
 INTERNET VPN É APENAS UM QUEBRA GALHO",
   "UrlUpdate": "https://raw.githubusercontent.com/plignet/Plignet-updates/refs/heads/main/config.json",
   "CheckUser": "https://plignet.com/checkuser/conecta4g5g.php",
-  "BackgroundLink": "https://i.ibb.co/d43Wvqx/d43Wvqx.png",
+  "BackgroundLink": "https://ibb.co/jPWz5V6m",
   "LogoLink": "https://i.ibb.co/BLFC3h1/BLFC3h1.png",
   "UdpPort": "7300;7500;7600;7599;7200;7777;9999",
   "Sms": "https://raw.githubusercontent.com/plignet/Plignet-updates/refs/heads/main/config.json",
