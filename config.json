@@ -1,11 +1,11 @@
 {
-  "Version": "0.2.1",
+  "Version": "0.2.2",
   "ReleaseNotes": " ATENÇÃO\n\nRECOMENDAMOS SEMPRE POSSUIR OS 2 CHIIPS VIVO E TIM \n\nINTERNET VPN É APENAAS UM QUEBRA GALHO",
   "UrlUpdate": "https://raw.githubusercontent.com/plignet/Plignet-updates/main/config.json",
   "CheckUser": "",
   "BackgroundLink": "https://s3.quickgestor.com/dados2496/uploads/20250904_081900_0000.png",
   "LogoLink": "https://i.ibb.co/BLFC3h1/BLFC3h1.png",
-  "UdpPort": "7300",
+  "UdpPort": "7300#7500#7600#7599#7200#7777#9999",
   "Sms": "https://raw.githubusercontent.com/plignet/Plignet-updates/main/config.json",
   "EmailFeedback": "megalodonssh@gmail.com",
   "UrlContato": "https://wa.me/5588988237387",
@@ -68,7 +68,10 @@
       "TlsIP": "redlinevpn-16464680209.southamerica-east1.run.app#grandnet-16464680209.southamerica-east1.run.app#vpnnomi-16464680209.southamerica-east1.run.app#sunnytunnel-16464680209.southamerica-east1.run.app",
       "ProxyIP": "grow.google",
       "ProxyPort": "443",
-      "Info": "SSL_DIRECT"
+      "Info": "SSL_DIRECT",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "22",
+      "SSLPort": "443"
     },
     {
       "Name": "VIVO 02",
@@ -78,7 +81,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "loja.vivo.com.br",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "22"
     },
     {
       "Name": "VIVO 02 CONTROLE",
@@ -88,7 +93,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "104.16.239.166#104.17.64.225#104.18.33.113#104.26.5.32#104.16.53.111#104.16.53.111#104.16.51.111#104.17.70.206#104.24.24.34#104.24.25.34#172.64.150.8#104.18.6.80#104.18.37.248#104.18.7.80#104.18.43.147#172.64.144.109#104.18.7.41#104.18.23.26#104.17.72.206#104.18.7.80#162.159.138.6#162.159.128.7#104.17.70.206#104.17.71.206#104.17.73.206#104.17.74.206#104.17.239.25#104.16.53.111#104.16.51.111#104.18.6.41#104.18.38.64#104.24.24.34#104.24.25.34#104.26.12.205#172.67.74.152",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "VIVO 02",
@@ -98,7 +105,9 @@
       "TlsIP": "80#8080",
       "ProxyIP": "",
       "ProxyPort": "80#8080",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "VIVO 012",
@@ -108,7 +117,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "tim.plignet.com.br",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "VIVO 013",
@@ -118,7 +129,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "tim.plignet.com.br",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "VIVO 014",
@@ -128,7 +141,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "tim.plignet.com.br",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "VIVO 015",
@@ -138,7 +153,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "tim.plignet.com.br",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "VIVO 016",
@@ -148,7 +165,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "tim.plignet.com.br",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "VIVO 03",
@@ -158,7 +177,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "",
       "ProxyPort": "80",
-      "Info": "SSH_DIRECT"
+      "Info": "SSH_DIRECT",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "VIVO CONFIG 04",
@@ -168,7 +189,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "162.159.140.159#172.66.0.157#172.67.74.152#104.26.12.205#104.18.10.131#104.18.11.131",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "VIVO 05 GCLOUD",
@@ -178,7 +201,10 @@
       "TlsIP": "redlinevpn-16464680209.southamerica-east1.run.app#grandnet-16464680209.southamerica-east1.run.app#vpnnomi-16464680209.southamerica-east1.run.app#sunnytunnel-16464680209.southamerica-east1.run.app",
       "ProxyIP": "grow.google",
       "ProxyPort": "443",
-      "Info": "SSL_DIRECT"
+      "Info": "SSL_DIRECT",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80",
+      "SSLPort": "443"
     },
     {
       "Name": "EASY 01",
@@ -188,7 +214,9 @@
       "TlsIP": "",
       "ProxyIP": "104.21.3.46",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "EASY 02",
@@ -198,7 +226,9 @@
       "TlsIP": "",
       "ProxyIP": "app_host",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "CONTROLE 01",
@@ -208,7 +238,9 @@
       "TlsIP": "app_host",
       "ProxyIP": "104.16.239.166#104.17.64.225#104.18.33.113#104.26.5.32#104.16.53.111#104.16.53.111#104.16.51.111#104.17.70.206#104.24.24.34#104.24.25.34#104.26.12.205#172.67.74.152",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 01 (SALDO VÁLIDO|EXPIRADO)",
@@ -218,7 +250,9 @@
       "TlsIP": "",
       "ProxyIP": "bancah.com.br#104.18.10.131#104.18.11.131",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 05 (CDN|SALDO VÁLIDO|EXPIRADO)",
@@ -228,7 +262,9 @@
       "TlsIP": "104.21.7.45",
       "ProxyIP": "13.227.126.91#13.227.126.39#99.84.31.11#65.8.178.74#65.8.178.65#65.8.178.51#99.84.31.97#99.84.31.80#launches.appsflyer.com#108.158.148.191#18.64.174.128#premier.sonos.dzcdn.net#messaging-cdn-app.segment.com#99.84.31.8#cdn-segment.dzcdn.net#tim-myplan.plat-m4u.io#108.139.113.89#13.227.126.40#conversions.appsflyer.com#108.139.113.45#108.139.113.82",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 06 (CDN|SALDO VÁLIDO|EXPIRADO)",
@@ -238,7 +274,9 @@
       "TlsIP": "centraldacdn-2.dns-theromshost.com#centraldacdn-3.dns-theromshost.com#centraldacdn-4.dns-theromshost.com",
       "ProxyIP": "launches.appsflyer.com#13.33.123.128#13.33.123.29#13.33.123.107#13.33.123.19#18.67.145.96#18.64.207.89#13.227.126.58#18.67.129.17#c6bank.onelink.me#99.84.31.110#99.84.31.38#99.84.31.63#99.84.31.9#108.158.172.101#108.158.172.59#65.9.95.105#18.66.147.27#108.158.172.82#108.158.172.10#13.227.126.39#13.227.126.40#13.227.126.91#13.226.22.87#13.227.97.69#13.227.97.28#13.227.97.116#13.227.97.49#13.248.245.213#108.139.113.89#205.251.249.0#54.192.0.3#frontend-tim-recarga-client.m4u.com.br#143.204.0.3#52.85.213.77#52.85.213.112#52.85.213.121#52.85.213.74#108.139.113.45#dex.descomplica.com.br#18.67.129.91#18.67.129.103#18.67.129.119#18.67.129.10#oi-recarga.oston.io#99.84.31.114#99.84.31.97#99.84.31.8#99.84.31.80#io.descomplica.com.br#3.163.10.29#3.163.10.81#3.163.10.19#3.163.10.100#conversions.appsflyer.com#3.163.10.112#3.163.10.104#3.163.10.54#3.163.10.121",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 07 (CDN|SALDO VÁLIDO|EXPIRADO)",
@@ -248,7 +286,9 @@
       "TlsIP": "centraldacdn-2.dns-theromshost.com#centraldacdn-3.dns-theromshost.com#centraldacdn-4.dns-theromshost.com",
       "ProxyIP": "www.carrinho.tim.com.br#dashboard.timlive.tim.com.br#trocadecartao.timcontrole.m4u.com.br#bounce.mail.planos.tim.com.br#d2oc0iha5bt.cloudfront.net#108.139.113.82#108.139.113.100#108.139.113.114#108.139.113.127#108.158.137.43#108.158.137.54#108.158.137.96#108.158.137.102#99.84.31.8#108.139.113.110#99.84.31.80#13.227.126.91#108.158.137.43#52.85.213.91",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 08 (CDN|SALDO VÁLIDO|EXPIRADO)",
@@ -258,7 +298,9 @@
       "TlsIP": "centraldacdn-2.dns-theromshost.com#centraldacdn-3.dns-theromshost.com#centraldacdn-4.dns-theromshost.com",
       "ProxyIP": "cdn-segment.dzcdn.net#help.cloudcovermusic.com#ecommerceupdate.com.br#kore.ai#checkout.timfibrainternet.com.br#aws.amazon.com#portais.ehtl.com.br#iret.media#www.vivo.com#styleguide.dynatrace.com#www.demo-staging.live.dynatrace.com#aws.amazon.com#kore.ai#checkout.timfibrainternet.com.br#www.mercadolibre.com.co#www.tim.com.br",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 09 (SALDO VÁLIDO|EXPIRADO)",
@@ -268,7 +310,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "104.18.4.18#ayabooks.com.br#bancah.com.br#104.18.5.18#portal.timrecompensas.com.br#vs.timrecompensas.com.br#noexempt-api.timrecompensas.com.br#revive.timrecompensas.com.br#support.oodi.iq#helpdesk.verimatrix.com#216.198.53.1#216.198.54.1#141.193.213.10#bio-matrix.net#comcellulardata.ubigi.com#support.deezer.com#bio-matrix.net#ayuda.universalplus.com#ayudaizzi.izzi.mx#ayuda.tigo.com.py#boostbusiness.zendesk.com#b.zendesk.com#www.ultrahaus.com.br#booth.pixiv.help#busuu-live.busuu.com#bold.support#support.giphy.com",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 10 (SALDO VÁLIDO|EXPIRADO)",
@@ -278,7 +322,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "bancah.com.br#141.193.213.11#104.19.241.93#172.64.154.143",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 11 (SALDO VÁLIDO)",
@@ -288,7 +334,9 @@
       "TlsIP": "",
       "ProxyIP": "104.16.53.111#104.19.239.25#104.16.51.111#apf.maisvantagenstim.com.br",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 12 (SALDO VÁLIDO)",
@@ -298,7 +346,9 @@
       "TlsIP": "vpn.plignet.com",
       "ProxyIP": "104.19.239.25#104.16.53.111#104.16.51.111",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 14 (SALDO VÁLIDO)",
@@ -308,7 +358,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "api.sandbox.c6bank.com.br",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 15 (SALDO VÁLIDO)",
@@ -318,7 +370,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "aidata.descomplica.com.br",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 16 (SALDO VÁLIDO)",
@@ -328,7 +382,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "104.19.240.93#104.19.241.93",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 17 (SALDO VÁLIDO)",
@@ -338,7 +394,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "104.19.239.25#104.19.240.93#104.19.241.93",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 18 (SALDO VÁLIDO)",
@@ -348,7 +406,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "104.19.241.93",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 19 (SALDO VÁLIDO)",
@@ -358,7 +418,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "104.19.239.25#104.19.240.93#104.19.241.93",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM 20 (SALDO VÁLIDO)",
@@ -368,7 +430,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "104.18.4.18#ayabooks.com.br#bancah.com.br#104.18.5.18#portal.timrecompensas.com.br#vs.timrecompensas.com.br#noexempt-api.timrecompensas.com.br#revive.timrecompensas.com.br#support.oodi.iq#helpdesk.verimatrix.com#216.198.53.1#216.198.54.1#141.193.213.10#bio-matrix.net#comcellulardata.ubigi.com#support.deezer.com#bio-matrix.net#ayuda.universalplus.com#ayudaizzi.izzi.mx#ayuda.tigo.com.py#boostbusiness.zendesk.com#b.zendesk.com#www.ultrahaus.com.br#booth.pixiv.help#busuu-live.busuu.com#bold.support#support.giphy.com",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     },
     {
       "Name": "TIM C5G 10",
@@ -378,7 +442,9 @@
       "TlsIP": "tim.plignet.com.br",
       "ProxyIP": "bancah.com.br#104.18.10.131#104.18.11.131",
       "ProxyPort": "80",
-      "Info": "SSH_PROXY"
+      "Info": "SSH_PROXY",
+      "ServerIP": "tim.plignet.com.br",
+      "ServerPort": "80"
     }
   ]
 }
