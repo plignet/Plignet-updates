@@ -19,7 +19,7 @@
       "CheckUser": "",
       "ServerPort": "22",
       "SSLPort": "443",
-      "SNI": "tim.plignet.com.br",
+      "SNI": "",
       "USER": "",
       "PASS": ""
     },
@@ -167,7 +167,7 @@
       "ProxyPort": "80",
       "Info": "SSH_PROXY",
       "ServerIP": "tim.plignet.com.br",
-      "ServerPort": "22"
+      "ServerPort": "80"
     },
     {
       "Name": "VIVO 03",
