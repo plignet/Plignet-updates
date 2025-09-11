@@ -1,11 +1,11 @@
 {
-  "Version": "0.2.0",
+  "Version": "0.2.1",
   "ReleaseNotes": " ATENÇÃO\n\nRECOMENDAMOS SEMPRE POSSUIR OS 2 CHIIPS VIVO E TIM \n\nINTERNET VPN É APENAAS UM QUEBRA GALHO",
   "UrlUpdate": "https://raw.githubusercontent.com/plignet/Plignet-updates/main/config.json",
   "CheckUser": "",
   "BackgroundLink": "https://s3.quickgestor.com/dados2496/uploads/20250904_081900_0000.png",
   "LogoLink": "https://i.ibb.co/BLFC3h1/BLFC3h1.png",
-  "UdpPort": "7300#7500#7600#7599#7200#7100#7000",
+  "UdpPort": "7300",
   "Sms": "https://raw.githubusercontent.com/plignet/Plignet-updates/main/config.json",
   "EmailFeedback": "megalodonssh@gmail.com",
   "UrlContato": "https://wa.me/5588988237387",
